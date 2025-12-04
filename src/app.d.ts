@@ -10,4 +10,4 @@ declare global {
     }
 }
 
-export {};
+export {DayOffProcessor} from './processor';
